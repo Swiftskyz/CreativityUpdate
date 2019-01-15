@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  CreativityUpdate
+//  DrawingProject
 //
-//  Created by Himeno, Skylar on 11/15/18.
+//  Created by Himeno, Skylar on 11/1/18.
 //  Copyright © 2018 CTEC. All rights reserved.
 //
 
